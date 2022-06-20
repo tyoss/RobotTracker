@@ -44,16 +44,16 @@
         </div>
         <br></br>
 
+        <form>
+            <a href="">
+                <input type="submit" value="Marche/arret">
+            </a>
+        </form>
         <img src="sources/Robot Atlas tracker.png" class="center">
 
-<?php
-$dbh = new PDO('mysql:host=localhost;dbname=test', $user, $pass);
-?>
 
-            <form>
-                <a href="">
-                    <input type="submit" value="Marche/arret">
-                </a>
-            </form>
+        <?php
+            $dbh = new PDO('mysql:host=localhost;dbname=test', $user, $pass);
+        ?>
     </body>
 </html>
