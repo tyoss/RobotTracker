@@ -1,13 +1,10 @@
 <!DOCTYPE html> 
 <html>
     <head>
-        <! -- <script> <! -- import {} from 'https://www.gstatic.com/firebasejs/9.8.3/firebase-functions';</script>
         <meta charset="utf-8" />
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
         <link rel="stylesheet" href="style.css" />
-        <! -- <script src="functions/index.js"></script>
         
-        <br></br>
         <title>
             Robot Tracker
         </title>
@@ -49,9 +46,7 @@
         </H1>
             <br></br>
             <p>Bienvenu sur le site du projet Robot Tracker.</p>
-            <p>Ici vous pouvez ordoner au robot ou il doit aller,en clicant sur l'un des boutons du tableau.</p>
-
-            <! -- <input type="button" value="A1" onclick="buttonClickGET()"  />
+            <p>Ici vous pouvez ordoner au robot ou il doit aller,en cliquant sur l'un des boutons du tableau.</p>
             <br></br>
             
             <div class="btn-group btn-group-lg" role="group" aria-label="Basic example">
